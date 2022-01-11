@@ -1,4 +1,4 @@
-      Shopify-Data-Science-Internship-Challenge
+      Shopify Data Science Internship Challenge
 
 ![Data Science](data_science.png)
 
